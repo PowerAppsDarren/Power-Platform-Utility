@@ -2,9 +2,6 @@
 # Core GUI Framework
 PySide6>=6.6.0
 
-# CLI and System Integration
-subprocess-run>=0.1.0
-
 # Configuration and Data Handling
 pyyaml>=6.0
 python-dotenv>=1.0.0
