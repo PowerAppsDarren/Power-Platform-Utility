@@ -1,0 +1,21 @@
+{
+    "application": {
+        "name": "Power Platform Utility",
+        "version": "1.0.0",
+        "theme": "default"
+    },
+    "pac_cli": {
+        "timeout": 30,
+        "retry_attempts": 3
+    },
+    "ui": {
+        "window_width": 1200,
+        "window_height": 800,
+        "remember_size": true,
+        "remember_position": true
+    },
+    "logging": {
+        "level": "INFO",
+        "file_logging": true
+    }
+}
